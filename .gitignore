@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos de configuração
+.env
+.env.local
+.env.production
+.env.development
+.env.local.production
+.env.local.development
+
+# Arquivos temporários
+tmp
+temp
+*.tmp
+*.~tmp~
+
+# Arquivos de build e binários
+*.o
+*.so
+*.a
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.out
+build
+dist
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.~
+*.swo
+.DS_Store
+.project
+.classpath
+.settings/
+
+# Outros
+.cache
+.sass-cache
+.node_modules
+node_modules/
+.yarn/
+.yarnrc.yml
