@@ -1,4 +1,4 @@
-#include "encurtador.h"
+#include "cabecalho_funcoes.h"
 
 // Tabela hash global
 URLNo *tabela[TAM];
