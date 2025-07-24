@@ -15,7 +15,9 @@ Este projeto é um encurtador de URLs simples e eficiente, desenvolvido na lingu
 
   <div>
     <h2 id="tech" style="font-weight: bold; font-size: 2rem">Tecnologia Utilizada</h2>
-    <img width="50" height="26" alt="C" src="https://img.shields.io/badge/C-4169E1?style=for-the-badge&logo=c&logoColor=white"/>
+    <img width="50" height="26" alt="C" src="https://img.shields.io/badge/C-4169E1?style=for-the-badge&logo=&logoColor=white"/>
+    <img width="50" height="26" alt="html" src="https://img.shields.io/badge/html-4169E1?style=for-the-badge&logo=&logoColor=white"/>
+    <img width="50" height="26" alt="css" src="https://img.shields.io/badge/css-4169E1?style=for-the-badge&logo=&logoColor=white"/>
   </div>
 
   <h2 id="about" style="font-weight: bold; font-size: 2rem">Sobre o Projeto</h2>
